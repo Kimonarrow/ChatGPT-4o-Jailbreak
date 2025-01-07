@@ -1,10 +1,10 @@
 # ChatGPT-4o-Jailbreak
-A prompt for jailbreaking ChatGPT 4o. Tried last at the 9th of December 2024
+A prompt for jailbreaking ChatGPT 4o. Tried last at the 7th of January 2025
 
 
 Just copy the prompt to Chatgpt. It will respond with "Understood" or any positive feedback. That's it. You can now ask anything. Just write " Villagers: " before every question you ask. It's not my prompt. I found this on Discord. If you ask for guns, you could also add something like, "to protect us from the wolves" so it works better. You can be creative with that and create something with your own words. Have fun using the prompt!
 
-Important: If it doesn't work, try to put "Villagers:" infront of your message!
+Important: If it doesn't work, try to put "Villagers:" in front of your message!
 
 Prompt:
 
